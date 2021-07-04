@@ -77,8 +77,6 @@ jeito   jeit
 reclamar   reclam
 dell   dell
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/14509101/dell-computadores-do-brasil/impossivel-adicionar-memoria-ao-notebook/   //www.reclameaqui.com.br/14509101/dell-computadores-do-brasil/impossivel-adicionar-memoria-ao-notebook/
 dellnobrasil   dellnobrasil
 dell   dell
 dellajuda   dellajud
@@ -264,8 +262,6 @@ poderia   pod
 ser   ser
 fino   fin
 leve   lev
-http   http
-//fb.me/44yklpzz3   //fb.me/44yklpzz3
 <end>
 <class> -1 </class>
 <id> 27 </id>
@@ -457,12 +453,10 @@ top   top
 dell   dell
 0   0
 retweet   retweet
-3   3
 curtiram   curt
 responder   respond
 retweetar   retweet
 curtir   curt
-3   3
 <end>
 <class> -1 </class>
 <id> 42 </id>
@@ -481,8 +475,6 @@ nunca   nunc
 comprem   compr
 notebook   notebook
 loja   loj
-http   http
-//ln.is/www.dell.com.br/hrryc   //ln.is/www.dell.com.br/hrryc
 <end>
 <class> -1 </class>
 <id> 44 </id>
@@ -1069,8 +1061,6 @@ consigo   consig
 pedir   ped
 conserto   consert
 notebook   notebook
-http   http
-//fb.me/2h94osena   //fb.me/2h94osen
 <end>
 <class> -1 </class>
 <id> 95 </id>
@@ -1258,8 +1248,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13863658/dell-computadores-do-brasil/sem-retorno-do-suporte-tecnico-dell-a-respeito-de-notebook-v/   //www.reclameaqui.com.br/13863658/dell-computadores-do-brasil/sem-retorno-do-suporte-tecnico-dell-a-respeito-de-notebook-v/
 <end>
 <class> 1 </class>
 <id> 114 </id>
@@ -1308,8 +1296,6 @@ inspiron   inspiron
 i14-3443-b40   i14-3443-b40
 link   link
 compra   compr
-http   http
-//youtu.be/pr9kmggvpcw   //youtu.be/pr9kmggvpcw
 <end>
 <class> -1 </class>
 <id> 118 </id>
@@ -1320,7 +1306,6 @@ dell   dell
 notebook   notebook
 dell   dell
 xps   xp
-13   13
 tipo   tip
 macbook   macbook
 windows   window
@@ -1333,8 +1318,6 @@ dell   dell
 continua   continu
 dando   dand
 defeito   defeit
-http   http
-//youtu.be/02w_f1pcbye   //youtu.be/02w_f1pcby
 via   via
 youtube   youtub
 <end>
@@ -1342,7 +1325,6 @@ youtube   youtub
 <id> 121 </id>
 dell   dell
 deu   deu
-1   1
 ano   ano
 kaspersky   kaspersky
 grátis   grátil
@@ -1406,7 +1388,6 @@ inspiron   inspiron
 <end>
 <class> -1 </class>
 <id> 128 </id>
-2   2
 anos   ano
 após   após
 ter   ter
@@ -1419,14 +1400,12 @@ nao   nao
 sei   sei
 dell   dell
 windows   window
-8   8
 <end>
 <class> 1 </class>
 <id> 130 </id>
 renatadiem   renatadi
 dell   dell
 funcionando   funcion
-7   7
 anos   ano
 ainda   aind
 firme   firm
@@ -1538,8 +1517,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13724177/dell-computadores-do-brasil/notebook/   //www.reclameaqui.com.br/13724177/dell-computadores-do-brasil/notebook/
 <end>
 <class> -1 </class>
 <id> 140 </id>
@@ -1683,8 +1660,6 @@ dellnobrasil   dellnobrasil
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13629753/dell-computadores-do-brasil/notebook-dell-aparelhos-de-terceira-categoria/   //www.reclameaqui.com.br/13629753/dell-computadores-do-brasil/notebook-dell-aparelhos-de-terceira-categoria/
 <end>
 <class> 1 </class>
 <id> 156 </id>
@@ -1717,16 +1692,10 @@ dell   dell
 <id> 159 </id>
 notebook   notebook
 natinha   nat
-http   http
-//www.walmart.com.br/produto/informatica/notebooks/acer/493   //www.walmart.com.br/produto/informatica/notebooks/acer/493
-—   —
 segundo   segund
 dell   dell
 eh   eh
 vida   vid
-3   3
-http   http
-//ask.fm/a/c919n8lb   //ask.fm/a/c919n8lb
 <end>
 <class> -1 </class>
 <id> 160 </id>
@@ -1870,7 +1839,6 @@ notebook   notebook
 <class> 1 </class>
 <id> 173 </id>
 dell   dell
-3   3
 anos   ano
 meio   mei
 notebook   notebook
@@ -1948,12 +1916,9 @@ nunca   nunc
 design   design
 pouco   pouc
 pro   pro
-xps   xp
-13   13
+xps   xps
 notebook   notebook
 lindo   lind
-http   http
-//del.ly/6018b6zsg   //del.ly/6018b6zsg
 <end>
 <class> 1 </class>
 <id> 183 </id>
@@ -2048,8 +2013,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13372457/dell-computadores-do-brasil/notebook-manchado-com-menos-de-4-meses-de-uso/   //www.reclameaqui.com.br/13372457/dell-computadores-do-brasil/notebook-manchado-com-menos-de-4-meses-de-uso/
 <end>
 <class> 1 </class>
 <id> 193 </id>
@@ -2152,8 +2115,6 @@ foda   fod
 pc   pc
 né   né
 mãe   mãe
-http   http
-//www.submarino.com.br/produto/122565536/notebook-2-em-1-dell-inspiron-13-7348-a20-intel-core-i5-4gb-500gb-led-full-hd-13-3-windows-8.1   //www.submarino.com.br/produto/122565536/notebook-2-em-1-dell-inspiron-13-7348-a20-intel-core-i5-4gb-500gb-led-full-hd-13-3-windows-8.1
 <end>
 <class> -1 </class>
 <id> 203 </id>
@@ -2189,8 +2150,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13299009/dell-computadores-do-brasil/notebook-nao-funciona-esta-na-garantia-e-a-dell-nao-resolve/   //www.reclameaqui.com.br/13299009/dell-computadores-do-brasil/notebook-nao-funciona-esta-na-garantia-e-a-dell-nao-resolve/
 <end>
 <class> -1 </class>
 <id> 206 </id>
@@ -2491,7 +2450,6 @@ dell   dell
 <id> 234 </id>
 paguei   pag
 quase   quas
-3   3
 mil   mil
 reais   real
 notebook   notebook
@@ -2544,7 +2502,6 @@ custava   cust
 <end>
 <class> -1 </class>
 <id> 239 </id>
-30   30
 dias   dia
 entregar   entreg
 notebook   notebook
@@ -2574,7 +2531,6 @@ notebook   notebook
 dell   dell
 customizado   custom
 prazo   praz
-30   30
 dias   dia
 <end>
 <class> -1 </class>
@@ -2777,7 +2733,6 @@ novo   nov
 macbook   macbook
 dell   dell
 xps   xp
-13   13
 <end>
 <class> -1 </class>
 <id> 263 </id>
@@ -3056,8 +3011,6 @@ notebook   notebook
 toda   tod
 vez   vez
 dão   dão
-http   http
-//fb.me/77go3cuzq   //fb.me/77go3cuzq
 <end>
 <class> -1 </class>
 <id> 286 </id>
@@ -3098,9 +3051,6 @@ notebook   notebook
 vai   vai
 ser   ser
 dell   dell
-https   http
-//macmagazine.com.br/wp-content/uploads/2015/03/09-tabela-notebooks.jpg   //macmagazine.com.br/wp-content/uploads/2015/03/09-tabela-notebooks.jpg
-61d3b0   61d3b0
 pq   pq
 ó…   ó…
 chances   chanc
@@ -3202,8 +3152,6 @@ merece   merec
 falo   fal
 todo   tod
 serviço   serviç
-http   http
-//fb.me/40r8104v0   //fb.me/40r8104v0
 <end>
 <class> -1 </class>
 <id> 301 </id>
@@ -3249,7 +3197,6 @@ lindo   lind
 tô   tô
 chorando   chor
 sangue   sang
-3   3
 <end>
 <class> -1 </class>
 <id> 306 </id>
@@ -3324,7 +3271,6 @@ reiniciou   reinici
 <end>
 <class> 1 </class>
 <id> 312 </id>
-3   3
 meses   mes
 notebook   notebook
 dell   dell
@@ -3482,7 +3428,6 @@ atualiza-lo   atualiza-l
 nao   nao
 vai   vai
 poder   pod
-......   ......
 <end>
 <class> -1 </class>
 <id> 328 </id>
@@ -3740,8 +3685,6 @@ notebook   notebook
 lindo   lind
 maleficent   maleficent
 dell   dell
-http   http
-//instagram.com/p/x-fz04j6wy/   //instagram.com/p/x-fz04j6wy/
 <end>
 <class> -1 </class>
 <id> 351 </id>
@@ -3896,7 +3839,6 @@ desligamento   deslig
 vowlenhart   vowlenhart
 notebook   notebook
 dell   dell
-3   3
 anos   ano
 formatar   format
 boa   boa
@@ -3906,7 +3848,6 @@ qualidade   qual
 <class> -1 </class>
 <id> 364 </id>
 paga   pag
-3   3
 pau   pau
 notebook   notebook
 dell   dell
@@ -4007,8 +3948,6 @@ linda   lind
 notebook   notebook
 dell   dell
 quero   quer
-http   http
-//www.theverge.com/2015/1/6/7501385/dell-xps-13-2015-edition-announced-at-ces-2015   //www.theverge.com/2015/1/6/7501385/dell-xps-13-2015-edition-announced-at-ces-2015
 <end>
 <class> 1 </class>
 <id> 372 </id>
@@ -4181,7 +4120,6 @@ ja   ja
 ta   ta
 pra   pra
 completar   complet
-3   3
 anos   ano
 <end>
 <class> -1 </class>
@@ -4891,8 +4829,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13299560/dell-computadores-do-brasil/dell-nao-atende-seus-clientes-note-parado-ha-20-dias-se   //www.reclameaqui.com.br/13299560/dell-computadores-do-brasil/dell-nao-atende-seus-clientes-note-parado-ha-20-dias-s
 <end>
 <class> -1 </class>
 <id> 448 </id>
@@ -4903,8 +4839,6 @@ dellajuda   dellajud
 ta   ta
 difícil   difícil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13267513/dell-computadores-do-brasil/sem-suporte/   //www.reclameaqui.com.br/13267513/dell-computadores-do-brasil/sem-suporte/
 ver   ver
 resumo   resum
 <end>
@@ -5035,8 +4969,6 @@ brasil   brasil
 reclameaqui   reclameaqu
 técnico   técn
 au   au
-http   http
-//www.reclameaqui.com.br/12977428/dell-computadores-do-brasil/tecnico-autorizado-destruiu-meu-note-na-garantia-e-a-del   //www.reclameaqui.com.br/12977428/dell-computadores-do-brasil/tecnico-autorizado-destruiu-meu-note-na-garantia-e-a-del
 <end>
 <class> -1 </class>
 <id> 458 </id>
@@ -5430,7 +5362,6 @@ bjs   bj
 <end>
 <class> 1 </class>
 <id> 495 </id>
-3   3
 meses   mes
 notebook   notebook
 dell   dell
@@ -5473,7 +5404,6 @@ sambo   samb
 <id> 498 </id>
 johnnykatayama   johnnykatayam
 sim   sim
-3   3
 poderoso   poder
 queria   quer
 <end>
@@ -5502,7 +5432,6 @@ atendimento   atend
 dell   dell
 note   not
 c/   c/
-3   3
 semanas   seman
 deu   deu
 problema   problem
@@ -5537,8 +5466,6 @@ hd   hd
 consultoria   consult
 dell   dell
 rede…   rede…
-http   http
-//instagram.com/p/ychazxsdcu/   //instagram.com/p/ychazxsdcu/
 <end>
 <class> -1 </class>
 <id> 504 </id>
@@ -5626,8 +5553,6 @@ dell   dell
 nessa   ness
 nova   nov
 safra   safr
-http   http
-//fb.me/6oqi6c1j2   //fb.me/6oqi6c1j2
 <end>
 <class> -1 </class>
 <id> 511 </id>
@@ -6009,8 +5934,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/14658650/dell-computadores-do-brasil/notebook-vostro-5470-com-problema-que-nao-tem-solucao/   //www.reclameaqui.com.br/14658650/dell-computadores-do-brasil/notebook-vostro-5470-com-problema-que-nao-tem-solucao/
 <end>
 <class> -1 </class>
 <id> 552 </id>
@@ -6024,7 +5947,6 @@ fiquem   fiqu
 atentos   atent
 comprem   compr
 presta   prest
-3   3
 dias   dia
 esperando   esper
 retorno   retorn
@@ -6040,8 +5962,6 @@ equipamento   equip
 problema   problem
 desde   desd
 aquisição   aquis
-http   http
-//fb.me/1dc0didji   //fb.me/1dc0didj
 <end>
 <class> -1 </class>
 <id> 554 </id>
@@ -6049,8 +5969,6 @@ sempre   sempr
 recomendei   recomend
 dell   dell
 quedecepção   quedecepç
-http   http
-//www.reclameaqui.com.br/14610673/dell-computadores-do-brasil/brincando-de-lego/   //www.reclameaqui.com.br/14610673/dell-computadores-do-brasil/brincando-de-lego/
 <end>
 <class> -1 </class>
 <id> 555 </id>
@@ -6066,8 +5984,6 @@ venue   venu
 3741-a10   3741-a10
 comprem   compr
 jeito   jeit
-http   http
-//fb.me/6oyapnzov   //fb.me/6oyapnzov
 <end>
 <class> -1 </class>
 <id> 556 </id>
@@ -6082,8 +5998,6 @@ inspiron   inspiron
 parou   par
 funcionar   funcion
 após   após
-http   http
-//fb.me/6qay6d6sl   //fb.me/6qay6d6sl
 <end>
 <class> -1 </class>
 <id> 557 </id>
@@ -6096,8 +6010,6 @@ jeito   jeit
 reclamar   reclam
 dell   dell
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/14509101/dell-computadores-do-brasil/impossivel-adicionar-memoria-ao-notebook/   //www.reclameaqui.com.br/14509101/dell-computadores-do-brasil/impossivel-adicionar-memoria-ao-notebook/
 dellnobrasil   dellnobrasil
 dell   dell
 dellajuda   dellajud
@@ -6113,8 +6025,6 @@ vende   vend
 garantia   garant
 conserta   consert
 equipamento   equip
-http   http
-//fb.me/4rqgibncv   //fb.me/4rqgibncv
 <end>
 <class> -1 </class>
 <id> 559 </id>
@@ -6125,8 +6035,6 @@ windows   window
 10   10
 queima   queim
 placa-mãe   placa-mã
-http   http
-//www.reclameaqui.com.br/14337742/dell-computadores-do-brasil/dell-inspiron-14z-5423-nao-liga-apos-atualizacao-para-windo/   //www.reclameaqui.com.br/14337742/dell-computadores-do-brasil/dell-inspiron-14z-5423-nao-liga-apos-atualizacao-para-windo/
 <end>
 <class> -1 </class>
 <id> 560 </id>
@@ -6156,8 +6064,6 @@ preciso   precis
 chave   chav
 ativação   ativ
 dell   dell
-http   http
-//fb.me/4n5nemf6i   //fb.me/4n5nemf6
 <end>
 <class> -1 </class>
 <id> 563 </id>
@@ -6170,8 +6076,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/14164806/dell-computadores-do-brasil/suporte-nao-e-confiavel/   //www.reclameaqui.com.br/14164806/dell-computadores-do-brasil/suporte-nao-e-confiavel/
 dell   dell
 <end>
 <class> -1 </class>
@@ -6191,8 +6095,6 @@ dell   dell
 inspiron   inspiron
 14z   14z
 5680   5680
-http   http
-//fb.me/6i32mavka   //fb.me/6i32mavk
 <end>
 <class> -1 </class>
 <id> 566 </id>
@@ -6201,8 +6103,6 @@ precisa   precis
 ter   ter
 fim   fim
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13747968/dell-computadores-do-brasil/tablet-dell-venue-8-nao-liga-mais-depois-de-carregar/   //www.reclameaqui.com.br/13747968/dell-computadores-do-brasil/tablet-dell-venue-8-nao-liga-mais-depois-de-carregar/
 <end>
 <class> -1 </class>
 <id> 567 </id>
@@ -6225,8 +6125,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13680758/dell-computadores-do-brasil/ultrabook-dell-vostro-5470-led-pisca-sem-parar/   //www.reclameaqui.com.br/13680758/dell-computadores-do-brasil/ultrabook-dell-vostro-5470-led-pisca-sem-parar/
 <end>
 <class> -1 </class>
 <id> 569 </id>
@@ -6235,8 +6133,6 @@ barato   barat
 sai   sai
 caro   car
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13629065/dell-computadores-do-brasil/dell-o-quot-barato-quot-que-sai-caro-atencao/   //www.reclameaqui.com.br/13629065/dell-computadores-do-brasil/dell-o-quot-barato-quot-que-sai-caro-atencao/
 <end>
 <class> -1 </class>
 <id> 570 </id>
@@ -6247,8 +6143,6 @@ dellajuda   dellajud
 ta   ta
 difícil   difícil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13267513/dell-computadores-do-brasil/sem-suporte/   //www.reclameaqui.com.br/13267513/dell-computadores-do-brasil/sem-suporte/
 <end>
 <class> -1 </class>
 <id> 571 </id>
@@ -6260,8 +6154,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/13243730/dell-computadores-do-brasil/laptop-sem-as-configuracoes-solicitadas-pacote-office-e-mcaf/   //www.reclameaqui.com.br/13243730/dell-computadores-do-brasil/laptop-sem-as-configuracoes-solicitadas-pacote-office-e-mcaf/
 <end>
 <class> -1 </class>
 <id> 572 </id>
@@ -6269,8 +6161,6 @@ dell   dell
 descaso   descas
 total   total
 cliente   client
-http   http
-//www.reclameaqui.com.br/12803214/dell-computadores-do-brasil/descaso-com-a-solicitacao-do-cliente/   //www.reclameaqui.com.br/12803214/dell-computadores-do-brasil/descaso-com-a-solicitacao-do-cliente/
 <end>
 <class> -1 </class>
 <id> 573 </id>
@@ -6283,9 +6173,6 @@ item   it
 faltante   falt
 compra   compr
 realizada   realiz
-09/02/2015   09/02/2015
-http   http
-//fb.me/3jdgst0jn   //fb.me/3jdgst0jn
 <end>
 <class> -1 </class>
 <id> 574 </id>
@@ -6298,8 +6185,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/12744104/dell-computadores-do-brasil/cansada-do-tablet-dell-venue-8/   //www.reclameaqui.com.br/12744104/dell-computadores-do-brasil/cansada-do-tablet-dell-venue-8/
 <end>
 <class> -1 </class>
 <id> 575 </id>
@@ -6314,8 +6199,6 @@ led   led
 fonte   font
 aceso   aces
 verde   verd
-http   http
-//fb.me/1wgtivmha   //fb.me/1wgtivmh
 <end>
 <class> -1 </class>
 <id> 576 </id>
@@ -6328,8 +6211,6 @@ garantia   garant
 inversamente   invers
 proporcional   proporc
 pressa   press
-http   http
-//fb.me/7j5j7cdar   //fb.me/7j5j7cd
 <end>
 <class> -1 </class>
 <id> 577 </id>
@@ -6412,8 +6293,6 @@ ouvi   ouv
 demais   demal
 quero   quer
 solução   soluç
-http   http
-//fb.me/1zdey5kj3   //fb.me/1zdey5kj3
 <end>
 <class> -1 </class>
 <id> 584 </id>
@@ -6446,8 +6325,6 @@ reclame   reclam
 aqui   aqu
 ra   ra
 notícias   notíc
-http   http
-//www.reclameaqui.com.br/noticias/noticias/dell-nega-atendimento-aos-seus-clientes-no-reclame-aqui_1243/   //www.reclameaqui.com.br/noticias/noticias/dell-nega-atendimento-aos-seus-clientes-no-reclame-aqui_1243/
 <end>
 <class> -1 </class>
 <id> 587 </id>
@@ -6469,13 +6346,10 @@ dell   dell
 computadores   comput
 brasil   brasil
 garantia   garant
-3   3
 anos   ano
 q   q
 nao   nao
 funciona   func
-http   http
-//fb.me/3jgofjy8p   //fb.me/3jgofjy8p
 <end>
 <class> -1 </class>
 <id> 589 </id>
@@ -6488,8 +6362,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/11992389/dell-computadores-do-brasil/como-perder-clientes/   //www.reclameaqui.com.br/11992389/dell-computadores-do-brasil/como-perder-clientes/
 <end>
 <class> -1 </class>
 <id> 590 </id>
@@ -6502,8 +6374,6 @@ lança   lanç
 mercado   merc
 produto   produt
 incompatibilidades   incompatibil
-http   http
-//fb.me/2rafn4mpv   //fb.me/2rafn4mpv
 <end>
 <class> -1 </class>
 <id> 591 </id>
@@ -6516,8 +6386,6 @@ dell   dell
 computadores   comput
 brasil   brasil
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/11929129/dell-computadores-do-brasil/problemas-com-a-bateria/   //www.reclameaqui.com.br/11929129/dell-computadores-do-brasil/problemas-com-a-bateria/
 <end>
 <class> -1 </class>
 <id> 592 </id>
@@ -6528,8 +6396,6 @@ fazer   faz
 respeito   respeit
 via   via
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/11765480/dell-computadores-do-brasil/dell-nao-cumpre-termo-de-garantia-basico/   //www.reclameaqui.com.br/11765480/dell-computadores-do-brasil/dell-nao-cumpre-termo-de-garantia-basico/
 <end>
 <class> -1 </class>
 <id> 593 </id>
@@ -6544,8 +6410,6 @@ screen   screen
 display   display
 tela   tel
 notebook   notebook
-http   http
-//fb.me/7akhl9uc5   //fb.me/7akhl9uc5
 <end>
 <class> -1 </class>
 <id> 594 </id>
@@ -6559,8 +6423,6 @@ inspiron   inspiron
 14   14
 solução   soluç
 problemas   problem
-http   http
-//fb.me/2syeetuf6   //fb.me/2syeetuf6
 <end>
 <class> -1 </class>
 <id> 595 </id>
@@ -6574,8 +6436,6 @@ reclamação   reclam
 contra   contr
 dell   dell
 reclameaqui   reclameaqu
-http   http
-//www.reclameaqui.com.br/11548179/dell-computadores-do-brasil/diga-nao-a-dell-o-suporte-nao-vale-mais-a-pena-assistencia/   //www.reclameaqui.com.br/11548179/dell-computadores-do-brasil/diga-nao-a-dell-o-suporte-nao-vale-mais-a-pena-assistencia/
 <end>
 <class> -1 </class>
 <id> 597 </id>
@@ -6588,8 +6448,6 @@ dell   dell
 nega   neg
 atendimento   atend
 garantia   garant
-http   http
-//fb.me/3y6onrpuw   //fb.me/3y6onrpuw
 <end>
 <class> -1 </class>
 <id> 598 </id>
@@ -6611,8 +6469,6 @@ erra   err
 entrega   entreg
 cumpre   cumpr
 prazo   praz
-http   http
-//fb.me/6ow8kupst   //fb.me/6ow8kupst
 <end>
 <class> -1 </class>
 <id> 600 </id>
