@@ -5,7 +5,7 @@ locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 filename = "test.txt"
 
-bgw = 30
+bgw = 70
 
 positive_sentences = []
 negative_sentences = []
@@ -50,7 +50,7 @@ def count_words(lst):
 def select_words(words_tuple):
     global bgw
     words_tuple.sort(key=lambda t: t[1], reverse=True)
-    words = [t[0] for t in words_tuple[:30]]
+    words = [t[0] for t in words_tuple[:bgw]]
     return set(words)
 
 
